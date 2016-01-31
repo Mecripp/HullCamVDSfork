@@ -1,0 +1,9 @@
+/home/the-stinger/HullCamera/HullCamerav0.3/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/the-stinger/HullCamera/HullCamerav0.3/bin/Release/HullCamera.dll.mdb
+/home/the-stinger/HullCamera/HullCamerav0.3/bin/Release/HullCamera.dll
+/home/the-stinger/HullCamera/HullCamerav0.3/obj/Release/HullCamera.dll
+/home/the-stinger/HullCamera/HullCamerav0.3/obj/Release/HullCamera.dll.mdb
+/home/the-stinger/HullCamera/HullCamerav0.3/bin/Release/Assembly-CSharp.dll
+/home/the-stinger/HullCamera/HullCamerav0.3/bin/Release/System.dll
+/home/the-stinger/HullCamera/HullCamerav0.3/bin/Release/System.Xml.dll
+/home/the-stinger/HullCamera/HullCamerav0.3/bin/Release/UnityEngine.dll
